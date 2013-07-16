@@ -20,3 +20,6 @@ Memory stats
      [info]   free = 134.19 MB
      [info]   used = 141.50 MB
      [info]   max = 1.33 GB
+
+
+Published under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.txt)
