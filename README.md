@@ -1,6 +1,10 @@
 jvm-command
 ===========
 
+The plugin has not been released yet. It is simple enough to copy `JvmCommandPlugin.scala` directly to your '~/.sbt/plugins/' folder.
+See [SBT Global Plugins](http://www.scala-sbt.org/release/docs/Getting-Started/Using-Plugins#global-plugins).
+
+
 Command is `system`, then use tab to list the available sub-commands.
 
 
